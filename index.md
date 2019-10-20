@@ -1,11 +1,20 @@
 ---
 
 layout: col-sidebar
-title: OWASP st. george
+title: OWASP St. George, Utah
 tags: example-tag
 level: 4
 
 ---
+
+Welcome to the St. George chapter homepage.
+
+Membership is encouraged but not required to use OWASP materials or to participate in chapter meetings or volunteering to help with an OWASP project. Everyone is welcome to join us at our chapter meetings. 
+
+Find us at Meetup ... https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/
+
+
+
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
