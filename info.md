@@ -1,13 +1,8 @@
 ### St. George, Utah Chapter Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
-
+* [Projects](#)
+* 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/)
+* * [Meetup](https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/)
 
 ### Code Repository
 * [repo](#)
