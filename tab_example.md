@@ -31,3 +31,5 @@ October 5, 2018 - Monthly tech industry meeting sponsored by Silicon Slopes at D
 September 7, 2018 - Monthly tech industry meeting sponsored by Silicon Slopes (https://siliconslopes.com/) at Dixie Tech College, St. George, Utah 610 S Airport Rd 12 noon. Thanks Joshua Aikens and Rusty Hughes.
 
 August 3, 2018 - Monthly tech industry meeting sponsored by Silicon Slopes at Dixie Tech College, St. George Utah 610 S Airport Rd 12 noon. Thanks Joshua Aikens and Gary Stone. 
+
+Special thanks to Lee Devine at Dixie Tech for helping organized our local chapter. 
