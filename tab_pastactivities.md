@@ -1,5 +1,5 @@
 ---
-title: PastAcivities
+title: PastActivities
 displaytext: Past Activities
 layout:  null
 tab: true
