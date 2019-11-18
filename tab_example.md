@@ -1,5 +1,6 @@
 ---
-title: Past Activities
+title: PastAcivities
+displaytext: Past Activities
 layout:  null
 tab: true
 order: 1
