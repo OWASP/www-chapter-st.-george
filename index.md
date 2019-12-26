@@ -5,7 +5,7 @@ title: OWASP St. George, Utah
 tags: example-tag
 level: 4
 
-region: United States
+region: North America
 
 ---
 
