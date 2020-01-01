@@ -9,6 +9,8 @@ tags: example-tag
 
 ## Past Activities
 
+December 6, 2019 - Tech industry meeting at Dixie Tech College sponsored, in part, by the St George OWASP Chapter, Silicon Slopes and the local Chamber of Commerce. Activities included the recognition of the Code Camp X winners (Rookie, Novice, Collegiate, and Industry divisions) who had the opportunity to show off their projects. 
+
 October 4, 2019 - Tech industry meeting at Dixie Tech College sponsored by Silicon Slopes ... with presentation and conversation with Jesse Bird cofounder of TCN ... developers of cloud based call center software. Also heard about how Dixie State University is providing support for the 2019 Code Camp at the campus Innovation Plaza.
 
 September 6, 2019 - Tech industry meeting at Dixie Tech College sponsored by Silicon Slopes ... with presentation and conversation with Jimmy and Ken co-founders of Easy Storage Solutions about building a company and developing the needed software to maintain operations. Special thanks to the Utah State University Rural Online Initiative (ROI) for providing lunch for the 50 + attendees.
