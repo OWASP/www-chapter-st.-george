@@ -1,2 +1,2 @@
 ### Leaders
-* [Dennis Johnson](mailto://dennis.johnson@owasp.org)
+* [Dennis Johnson](mailto:dennis.johnson@owasp.org)
