@@ -1,4 +1,4 @@
-### St. George, Utah Chapter Information
+### Chapter Information
 
 ### Projects
 * [Top Ten Card Game](https://owasp.org/www-project-top-10-card-game/)
