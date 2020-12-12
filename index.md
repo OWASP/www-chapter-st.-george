@@ -15,6 +15,10 @@ Membership is encouraged but not required to use OWASP materials or to participa
 
 Find us at [Meetup](https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/)
 
+Check our Upcoming Meetup Events:
+
+{% include chapter_events.html group=page.meetup-group %}
+
 
 
 
