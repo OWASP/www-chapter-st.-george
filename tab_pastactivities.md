@@ -9,6 +9,8 @@ tags: example-tag
 
 ## Past Activities
 
+February 17, 2021 - St Geoge chapter leadership meeting. Discussed the chapter's role in supporting OWASP, Tech College and local community projects and activities. Next meeting scheduled for April 27, 2021.
+
 February 3, 2021 - St George chapter leadership meeting. Initial planning meeting for 2021 activities.
 
 February 8, 2020 - Tech industry meeting at Dixie Tech College sponsored by Silicon Slopes ... Eric Pederson Dean of College of Science, Engineering & Technology at Dixie State University provided an outline about the growth and development of the tech pipeline for St. George.
