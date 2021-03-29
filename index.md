@@ -13,14 +13,7 @@ Welcome to the St. George chapter homepage.
 
 Membership is encouraged but not required to use OWASP materials or to participate in chapter meetings or volunteering to help with an OWASP project. Everyone is welcome to join us at our chapter meetings. 
 
-Find us at [Meetup](https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/)
-
-
-
-
-
-
-
+Find us at [Meetup](https://www.meetup.com/OWASP-St-George-Chapter/). All chapter OWASP events and activities are announced and tracked at this site. 
 
 
 
