@@ -4,7 +4,7 @@
 * [Top Ten Card Game](https://owasp.org/www-project-top-10-card-game/)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/)
+* [Meetup](https://www.meetup.com/OWASP-St-George-Chapter/)
 
 ### Downloads
 * [Link](#)
