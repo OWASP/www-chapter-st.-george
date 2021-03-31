@@ -15,6 +15,10 @@ Membership is encouraged but not required to use OWASP materials or to participa
 
 Find us at [Meetup](https://www.meetup.com/OWASP-St-George-Chapter/). All chapter OWASP events and activities are announced and tracked at this site. 
 
+### Participation
+
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
 
