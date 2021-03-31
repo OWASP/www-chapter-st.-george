@@ -16,7 +16,7 @@ Membership is encouraged but not required to use OWASP materials or to participa
 ## Events
 ![meetup](assets/images/meetup-logo-160x65.png)
 
-Find us at [Meetup](https://www.meetup.com/OWASP-St-George-Chapter/). All chapter OWASP events and activities are announced and tracked at this site. 
+Find us at [Meetup](https://www.meetup.com/owasp-st-george-ut/). All chapter OWASP events and activities are announced and tracked at this site. 
 
 ### Participation
 
