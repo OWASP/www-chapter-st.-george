@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP St. George, Utah
 tags: example-tag
 level: 4
-
+meetup-group: owasp-st-george-ut
 region: North America
 
 ---
@@ -16,6 +16,10 @@ Membership is encouraged but not required to use OWASP materials or to participa
 ### Events
 
 Find us at [Meetup](https://www.meetup.com/owasp-st-george-ut/). All chapter OWASP events and activities are announced and tracked at this site. 
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Participation
 
